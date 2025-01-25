@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background-color:#272f2a;
+    margin: 0px;
+    padding: 0px;
+    
+}
+nav img{
+    width: 20px;
+    margin-top: 10px;
+}
+nav{
+    text-align: center;
+    background-color: #86C232;
+    padding-bottom: 15px;
+}
+a{
+    margin-right: 15px;
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+}
+.devices{
+    height: 178px;
+}
+.text2{
+   display: flex;
+   justify-content: center;
+   gap:20px;
+   margin-top: 15px;
+   color:#86C232;
+
+}
+.text2 p{
+    width: 300px;
+    
+}
+footer{
+    text-align: center;
+}
